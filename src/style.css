@@ -41,3 +41,8 @@ main .flex {
   font-size: 16px;
   margin: 0 0 10px 0;
 }
+@media screen and (max-width: 1000px) {
+  .flex h2 {
+    font-weight: 700;
+  }
+}
